@@ -1,11 +1,20 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# K’TRA ASSURANCES CONSTRUCTION
 
-  <h1>Built with AI Studio</h2>
+Ce projet est une plateforme d'assurance spécialisée pour les marchands de biens.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Déploiement Rapide
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### Sur Netlify
+1. Connectez votre dépôt GitHub à Netlify.
+2. Paramètres de build :
+   - **Build Command:** `npm run build`
+   - **Publish directory:** `dist`
+3. Le site sera déployé automatiquement à chaque push sur la branche main.
 
-</div>
+### Développement Local
+1. `npm install`
+2. `npm run dev`
+
+### Sécurité
+Le mot de passe d'accès à la plateforme est : `KTRASECURITE`
